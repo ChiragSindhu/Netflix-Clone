@@ -1,0 +1,161 @@
+.settingComponent
+{
+    width: calc(100vw - 231px);
+    height: 100vh;
+    margin-left: 231px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--background-color);
+}
+
+#componentsettingHeading
+{
+    width: 100%;
+    height: min-content;
+    font-weight: bold;
+    font-size: 24px;
+    color: var(--DarkColor);
+    margin-top: 20px;
+    padding: 5px 0px 1.8rem 3rem;
+}
+
+#autoplaycontrols, #datausage, #defaultLanguage
+{
+    width: 500px;
+    height: max-content;
+
+    margin: 5px 0px 10px 2.5rem;
+    padding: 15px;
+    color: var(--regularColor);
+}
+
+#datausagetext,#autoplaycontrolstext{
+    font-size: 22px;
+    color: var(--lightColor);
+    margin-bottom: 20px;
+}
+
+#defaultheading{
+    font-size: 20px;
+    color: var(--lightColor);
+}
+
+#defaultvideolanguage{margin-bottom: 10px;}
+
+#defaultvideolanguageselect
+{
+    width: 200px;
+    padding: 4px 2px 4px 10px;
+    color: var(--DarkColor);
+    margin: 2px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: var(--nav-background-color);
+    border: none;
+    border-radius: 2px;
+}
+
+#autoplaycheckbox{
+    transform: scale(1.5);
+    border: 1px solid black;
+    margin: 0px 10px 15px 10px;
+}
+
+input[type='checkbox'], input[type='radio'] {
+    accent-color: rgb(var(--standard-button-color));
+    cursor: pointer;
+}
+
+#radiodatausage{
+    transform: scale(2);
+    border: 1px solid black;
+    margin: 13px 15px 15px 10px;
+}
+
+#datausagegroup{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+}
+
+#radioheadingtextgroup{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    font-size: 13px;
+    color: var(--lightColor);
+}
+
+#radiodatausageheadingtext{
+    font-weight: bold;
+    color: var(--DarkColor);
+    font-size: 15px;
+}
+
+#seperator{
+    border-bottom: 1px solid var(--lightColor);
+    border-radius: 10px;
+    margin-left: 2.2rem;
+    margin-bottom: 10px;
+    width: 450px;
+}
+
+#savebtngroup{
+    display: flex;
+    flex-direction: row;
+    margin: 1rem;
+    margin-left: 280px;
+    margin-bottom: 5rem;
+}
+
+.settingsavebutton{
+    background: rgb(var(--standard-button-color));
+	color: white;
+	border: none;
+	border-color: rgb(var(--standard-button-color));
+	height: 35px;
+	width: 100px;
+	font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-shadow: none;
+    cursor: pointer;
+    border-radius: 2px;
+    transition: 0.2s ease-in-out;
+}
+
+.settingsavebutton:hover{
+    background: rgba(var(--standard-button-color), 0.8);
+    font-size: 13.5px;
+}
+
+.settingsavebutton:active{
+    background: rgba(var(--standard-button-color), 0.8);
+    font-size: 12.5px;
+}
+
+#defaultsettingbtn{
+    background: var(--background-color);
+    color: rgb(var(--standard-button-color));
+    border: 0.5px solid rgb(var(--standard-button-color));
+    margin-left: 5px;
+    transition: 0.2s ease-in-out;
+}
+
+#alertMessage
+{
+    position: fixed;
+    top: -5rem;
+    border: none;
+    border-radius: 5px;
+    box-shadow: var(--regularTextShadow) 0px 4px 12px;
+    padding: 15px;
+    width: fit-content;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+    font-size: 15px;
+    transition: top 0.5s;
+    background-color: var(--background-color);
+    color: var(--regularColor);
+}

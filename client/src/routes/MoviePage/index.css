@@ -1,0 +1,179 @@
+.movieDetailContainer{
+    width: 100%;
+    height: auto;
+
+    position: relative;
+    z-index: 0;
+}
+
+#banner{
+    height: 90vh;
+    width: 100%;
+    object-fit: cover;
+    object-position: 50% 0;
+    filter: brightness(90%) saturate(130%);
+}
+
+#thumbnail{
+    position: absolute;
+    left: 3rem;
+    top: 63vh;
+
+    width: 11.5rem;
+    height: 18rem;
+
+    border-radius: 15px;
+    object-fit: cover;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,.3);
+
+    z-index: 1;
+}
+
+
+#nameLanguageContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+#movieContainer{
+    position: absolute;
+    left: 0px;
+    top: 63vh;
+
+    width: calc(100% - 270px);
+    height: max-content;
+
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+
+    background-color: var(--background-color);
+    padding: 2em 0px 3em 17em;
+    margin-top: 12.5vh;
+
+    box-shadow: 1px 1px 400px 170px rgb(24, 25, 42);
+}
+
+#movieLanguage{
+    margin-top: 20px;
+
+    margin-left: 13px;
+    height: min-content;
+
+    background-color: var(--regularColor);
+    color: var(--nav-background-color);
+    font-size: 12px;
+    padding: 2px 5px 2px 5px;
+    border-radius: 5px;
+
+    z-index: 2;
+}
+
+
+#name{
+    font-size: 40px;
+    font-weight: bold;
+    color: var(--DarkColor);
+
+    max-width: 30vw;
+}
+
+#categories{
+    display: flex;
+    flex-direction: row;
+}
+
+#category{
+    background-color: var(--background-color);
+    border-radius: 8px;
+    box-shadow: var(--regularTextShadow) 0px 1px 3px 0px, var(--regularTextShadow) 0px 1px 2px 0px;
+    cursor: pointer;
+    display: inline-flex;
+    font-size: 10px;
+    margin-left: 0px;
+    margin-top: 3px;
+    padding: 7px 10px;
+    color: var(--DarkColor);
+}
+
+#movieSmallDetail{
+    margin: 8px 0px 2px 0px;
+    color: #808191;
+    font-size: 12px;
+}
+
+#PlayAndDownload{
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0px 5px 0px;
+}
+
+#buttonPlay{
+    align-items: center;
+    background-color: #1f1c24;
+    border: 0;
+    border-radius: 8px;
+    box-shadow: 0px 3px 6px 0px rgba(0,0,0,.1),0px 1px 3px 0px rgb(0 0 0/8%);
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    font-size: 14px;
+    padding: 11px 16px;
+
+    height: min-content;
+    transition: 0.3s;
+}
+
+#buttonPlay:hover{
+    background-color: #625872;
+}
+
+#buttonDownload{
+    align-items: center;
+    background-color: rgba(74,116,201,1);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: 0px 3px 6px 0px rgba(0,0,0,.1),0px 1px 3px 0px rgb(0 0 0/8%);
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    font-size: 14px;
+    padding: 11px 16px;
+    margin-left: 4px;
+    margin-bottom: 5em;
+}
+
+#detailContaier{
+    width: calc(100% + 17em);
+    height: min-content;
+
+    transform: translate(-14em,-1em);
+    background-color: var(--background-color);
+}
+
+#Heading{
+    font-size: 20px;
+    font-weight: bold;
+    color: var(--regularColor);
+
+    margin: 0px 0px 1rem 0px;
+}
+
+#movieSynopsis{
+    width: calc(100vw - 325px);
+    font-size: 15px;
+    color: var(--regularColor);
+
+    margin-bottom: 2rem;
+    padding-right: 2rem;
+}
+
+#movieTrailer{
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+
+    width: 92%;
+    min-width: 50%;
+    height: calc(75vw * 9 / 16);
+
+    border-radius: 30px;
+}

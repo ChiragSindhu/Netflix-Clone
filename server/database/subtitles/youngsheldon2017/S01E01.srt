@@ -1,0 +1,2272 @@
+﻿1
+00:00:01,030 --> 00:00:03,130
+(train chugging)
+
+2
+00:00:05,070 --> 00:00:07,600
+(train whistle blows)
+
+3
+00:00:10,340 --> 00:00:13,610
+ADULT SHELDON:
+<i>I've always loved trains.</i>
+
+4
+00:00:13,610 --> 00:00:16,780
+<i>In fact, if my career</i>
+
+5
+00:00:16,780 --> 00:00:20,110
+<i>in theoretical physics hadn't
+worked out, my backup plan</i>
+
+6
+00:00:20,120 --> 00:00:22,780
+<i>was to become
+a professional ticket taker.</i>
+
+7
+00:00:22,790 --> 00:00:24,050
+<i>Or hobo.</i>
+
+8
+00:00:24,060 --> 00:00:26,060
+(train whistle blows)
+
+9
+00:00:27,260 --> 00:00:29,920
+♪ ♪
+
+10
+00:00:29,930 --> 00:00:34,360
+<i>And when I figured out
+that trains allowed me</i>
+
+11
+00:00:34,370 --> 00:00:36,440
+<i>to prove Newton's first law--</i>
+
+12
+00:00:36,440 --> 00:00:39,440
+<i>an object in motion stays
+in motion</i>
+
+13
+00:00:39,440 --> 00:00:41,100
+<i>with the same speed
+and in the same direction</i>
+
+14
+00:00:41,110 --> 00:00:44,510
+<i>unless acted upon
+by an unbalanced force--</i>
+
+15
+00:00:44,510 --> 00:00:47,170
+<i>I felt like Neil Armstrong
+on the moon,</i>
+
+16
+00:00:47,180 --> 00:00:49,210
+<i>alone and happy.</i>
+
+17
+00:00:49,220 --> 00:00:50,920
+MARY:
+Shelly, dinner's ready!
+
+18
+00:00:50,920 --> 00:00:53,420
+♪ Be-bop-a-lula,
+baby, what I say ♪
+
+19
+00:00:53,420 --> 00:00:56,750
+<i>(giggles) I don't care
+how dimwitted you are.</i>
+
+20
+00:00:56,760 --> 00:00:59,060
+<i>Scientific principles
+have to make you smile.</i>
+
+21
+00:00:59,060 --> 00:01:01,600
+<i>Of course,
+nobody I knew in East Texas</i>
+
+22
+00:01:01,600 --> 00:01:05,870
+<i>in 1989 cared
+about Newtonian physics.</i>
+
+23
+00:01:05,870 --> 00:01:08,070
+<i>The only Newtons
+they cared about</i>
+
+24
+00:01:08,070 --> 00:01:09,540
+<i>were Wayne and Fig.</i>
+
+25
+00:01:09,540 --> 00:01:11,040
+MISSY: Sheldon, if
+you don't get in here,
+
+26
+00:01:11,040 --> 00:01:13,580
+I'm gonna lick
+your toothbrush!
+Coming!
+
+27
+00:01:13,580 --> 00:01:15,170
+<i>That's my sister.</i>
+
+28
+00:01:15,180 --> 00:01:17,650
+<i>And she's done it before.</i>
+
+29
+00:01:17,650 --> 00:01:19,510
+♪ Do the walk of life ♪
+
+30
+00:01:19,510 --> 00:01:21,480
+♪ Yeah, he do
+the walk of life. ♪
+
+31
+00:01:21,480 --> 00:01:22,680
+The hell
+were you doing
+
+32
+00:01:22,680 --> 00:01:23,940
+out there?
+George,
+
+33
+00:01:23,950 --> 00:01:25,010
+language.
+
+34
+00:01:25,020 --> 00:01:28,430
+What language? So?
+I was exploring dimensional kinematics.
+
+35
+00:01:28,430 --> 00:01:30,320
+Admit it--
+he's adopted.
+
+36
+00:01:30,320 --> 00:01:31,490
+SHELDON:
+How can I be adopted
+
+37
+00:01:31,490 --> 00:01:33,020
+when I have a twin sister?
+
+38
+00:01:33,030 --> 00:01:35,060
+Think, monkey, think.
+
+39
+00:01:35,060 --> 00:01:36,260
+MARY:
+That's enough.
+
+40
+00:01:36,260 --> 00:01:37,260
+No one's adopted.
+
+41
+00:01:37,260 --> 00:01:38,160
+I wish I was.
+
+42
+00:01:38,170 --> 00:01:39,370
+That can still be arranged.
+
+43
+00:01:39,370 --> 00:01:41,070
+Now, let's pray.
+
+44
+00:01:41,070 --> 00:01:43,010
+A moment, please.
+
+45
+00:01:44,140 --> 00:01:44,940
+(sighs)
+
+46
+00:01:44,940 --> 00:01:46,310
+Leave him be.
+He can hold hands
+
+47
+00:01:46,310 --> 00:01:47,740
+with his family.
+It won't kill him.
+
+48
+00:01:47,740 --> 00:01:49,170
+We don't know that.
+
+49
+00:01:49,180 --> 00:01:52,050
+Georgie, did you wash
+your hands before dinner?
+
+50
+00:01:52,050 --> 00:01:53,250
+Or even this week?
+
+51
+00:01:53,250 --> 00:01:54,550
+None of your business.
+
+52
+00:01:54,550 --> 00:01:56,020
+Hence the mittens.
+
+53
+00:01:57,150 --> 00:01:59,080
+MARY: Thank you, God,
+for this food
+
+54
+00:01:59,090 --> 00:02:01,725
+we're about to receive and for
+the nourishment of our bodies,
+
+55
+00:02:01,726 --> 00:02:03,580
+and bless the hands
+that prepared it.
+
+56
+00:02:03,590 --> 00:02:04,990
+ALL:
+Amen.
+
+57
+00:02:05,960 --> 00:02:08,760
+How come we ain't got
+no tater tots?
+
+58
+00:02:08,760 --> 00:02:10,160
+I made tater tots last night.
+
+59
+00:02:10,160 --> 00:02:11,390
+GEORGE: I'd take
+tater tots
+
+60
+00:02:11,400 --> 00:02:13,630
+over mashed potaters any day.
+
+61
+00:02:13,630 --> 00:02:15,400
+Just eat what I made you.
+Can we at least
+
+62
+00:02:15,400 --> 00:02:16,660
+have tater tots
+tomorrow?
+
+63
+00:02:16,670 --> 00:02:18,100
+ADULT SHELDON:
+<i>It was family dinners like this</i>
+
+64
+00:02:18,110 --> 00:02:21,180
+<i>that led me to adopt
+a mid-Atlantic accent.</i>
+
+65
+00:02:21,180 --> 00:02:23,040
+<i>Nobel Prize winners...</i>
+
+66
+00:02:23,040 --> 00:02:24,970
+(Southern accent):
+<i>ought not be orderin'</i>
+<i>tater tots.</i>
+
+67
+00:02:24,980 --> 00:02:27,180
+Everybody excited
+to start school Monday?
+
+68
+00:02:27,180 --> 00:02:28,380
+I am.
+
+69
+00:02:28,380 --> 00:02:30,110
+I guess so.
+
+70
+00:02:30,120 --> 00:02:31,420
+MARY:
+Georgie?
+
+71
+00:02:31,420 --> 00:02:32,820
+Freshman year,
+that's a big deal.
+
+72
+00:02:32,820 --> 00:02:34,350
+How can I be excited
+when he's gonna be
+
+73
+00:02:34,360 --> 00:02:35,860
+in the same grade as me?
+
+74
+00:02:35,860 --> 00:02:37,130
+SHELDON:
+Don't worry, Georgie,
+I'm not planning
+
+75
+00:02:37,130 --> 00:02:39,420
+on being in the ninth
+grade for very long.
+
+76
+00:02:39,430 --> 00:02:42,170
+All I know is he's not in
+the same grade as me anymore,
+
+77
+00:02:42,170 --> 00:02:43,420
+and I'm thrilled.
+
+78
+00:02:43,430 --> 00:02:45,530
+Good luck
+with your finger painting.
+
+79
+00:02:45,530 --> 00:02:47,430
+You're gonna get your ass kicked
+in high school.
+
+80
+00:02:47,430 --> 00:02:49,600
+MARY:
+Hey, language.
+
+81
+00:02:49,600 --> 00:02:50,800
+I'm not going to be assaulted.
+
+82
+00:02:50,800 --> 00:02:52,530
+High school is a haven
+for higher learning.
+
+83
+00:02:52,540 --> 00:02:53,640
+Oh, dear God.
+
+84
+00:02:53,640 --> 00:02:55,640
+Speaking of God,
+who's going to church
+
+85
+00:02:55,640 --> 00:02:57,070
+with me tomorrow?
+GEORGE SR.: I can't.
+
+86
+00:02:57,080 --> 00:02:59,215
+I'm meeting
+with the other coaches.
+
+87
+00:02:59,216 --> 00:03:00,470
+You can't meet after church?
+
+88
+00:03:00,480 --> 00:03:02,640
+No, Mary,
+I can't meet after church.
+
+89
+00:03:03,480 --> 00:03:05,080
+Georgie?
+
+90
+00:03:05,090 --> 00:03:07,660
+I got to study
+my playbook.
+
+91
+00:03:09,720 --> 00:03:11,750
+I'll go with you, Mom.
+
+92
+00:03:11,760 --> 00:03:13,030
+MISSY:
+Why are you going?
+
+93
+00:03:13,030 --> 00:03:15,200
+You don't believe in God.
+No,
+
+94
+00:03:15,200 --> 00:03:16,760
+but I believe in Mom.
+
+95
+00:03:16,760 --> 00:03:17,960
+I'll take it. Missy?
+
+96
+00:03:17,970 --> 00:03:19,470
+Can't, Heather
+asked me to...
+
+97
+00:03:19,470 --> 00:03:22,140
+You're goin'.
+Son of a bitch.
+
+98
+00:03:22,140 --> 00:03:23,270
+Hey.
+Ow!
+
+99
+00:03:23,270 --> 00:03:24,130
+(laughs)
+
+100
+00:03:25,510 --> 00:03:27,040
+MARY: Missy...
+(gasps) Don't you
+
+101
+00:03:27,040 --> 00:03:29,470
+throw something at the
+dinner table. George Jr.
+
+102
+00:03:29,480 --> 00:03:32,550
+ADULT SHELDON:
+<i>Jane Goodall had to go</i>
+<i>to Africa to study apes.</i>
+
+103
+00:03:32,550 --> 00:03:33,650
+MISSY:
+Hey!
+
+104
+00:03:33,650 --> 00:03:35,850
+<i>I just had to go to dinner.</i>
+
+105
+00:03:35,850 --> 00:03:38,390
+Never at the
+dinner table!
+
+106
+00:03:38,390 --> 00:03:40,120
+You knock that
+off, George!
+
+107
+00:03:40,120 --> 00:03:41,920
+D-Do not retaliate!
+
+108
+00:03:41,920 --> 00:03:45,920
+ALL:
+♪ Onward, Christian soldiers ♪
+
+109
+00:03:45,930 --> 00:03:50,460
+♪ Marching as to war ♪
+
+110
+00:03:50,460 --> 00:03:55,330
+♪ With the cross of Jesus ♪
+
+111
+00:03:55,340 --> 00:04:01,140
+♪ Going on before. ♪
+
+112
+00:04:01,140 --> 00:04:04,840
+In Matthew nine, verse four,
+Jesus said,
+
+113
+00:04:04,850 --> 00:04:09,080
+"Why would you entertain
+evil thoughts in your hearts?"
+
+114
+00:04:09,080 --> 00:04:11,240
+(quietly):
+Do you have evil thoughts?
+Shh.
+
+115
+00:04:11,250 --> 00:04:13,780
+I just don't think
+this part applies to me.
+
+116
+00:04:13,790 --> 00:04:15,890
+That's fine.
+Be quiet and listen.
+
+117
+00:04:15,890 --> 00:04:18,030
+I'm only nine years old.
+
+118
+00:04:18,030 --> 00:04:20,190
+Most evil doesn't start
+till puberty.
+
+119
+00:04:20,190 --> 00:04:21,190
+(clears throat)
+
+120
+00:04:21,200 --> 00:04:22,660
+Hello.
+
+121
+00:04:22,660 --> 00:04:24,890
+Philippians 4:8,
+
+122
+00:04:24,900 --> 00:04:26,770
+"Finally, brothers,
+whatever is..."
+
+123
+00:04:26,770 --> 00:04:28,470
+Do you have
+evil thoughts?
+
+124
+00:04:28,470 --> 00:04:29,810
+I'm having one
+right now.
+
+125
+00:04:29,810 --> 00:04:31,130
+Really? What is it?
+
+126
+00:04:31,140 --> 00:04:33,810
+When we get home, I'm gonna
+kick your little balls.
+
+127
+00:04:33,810 --> 00:04:37,410
+You can't.
+They haven't descended yet.
+
+128
+00:04:37,410 --> 00:04:39,670
+Mom?
+What?
+
+129
+00:04:39,680 --> 00:04:42,010
+When should I be expecting
+my testicles?
+
+130
+00:04:42,020 --> 00:04:43,320
+"...whatever
+is admirable..."
+
+131
+00:04:43,320 --> 00:04:45,550
+What is wrong with him?
+
+132
+00:04:45,550 --> 00:04:47,210
+Nothin' is wrong with him.
+
+133
+00:04:47,220 --> 00:04:50,050
+Now, turn around before
+I knock your lights out.
+
+134
+00:04:50,060 --> 00:04:52,795
+PASTOR: ...think continually
+on these things.
+
+135
+00:04:52,796 --> 00:04:54,190
+A good thought
+leads
+
+136
+00:04:54,190 --> 00:04:55,790
+to a good thing.
+
+137
+00:04:55,800 --> 00:04:57,730
+You feel it in your body.
+You feel it in your...
+
+138
+00:04:57,730 --> 00:04:59,930
+ADULT SHELDON: <i>My mom was
+my Christian soldier.</i>
+
+139
+00:04:59,930 --> 00:05:02,130
+...leads to evil things
+and sits there and...
+
+140
+00:05:02,140 --> 00:05:06,080
+<i>And for the record,
+they descended when I was 15.</i>
+
+141
+00:05:10,340 --> 00:05:12,270
+(whirring)
+
+142
+00:05:12,280 --> 00:05:14,850
+♪ ♪
+
+143
+00:05:14,850 --> 00:05:18,490
+Shelly, it's your last day
+of summer. Go out and enjoy it.
+
+144
+00:05:18,490 --> 00:05:20,620
+But I have to learn
+the student handbook.
+
+145
+00:05:20,620 --> 00:05:22,820
+Ooh, did you know
+extreme hairstyles,
+
+146
+00:05:22,820 --> 00:05:25,290
+goatees and mustaches
+are not allowed?
+
+147
+00:05:25,290 --> 00:05:28,520
+I didn't.
+I personally find
+that very reassuring.
+
+148
+00:05:28,530 --> 00:05:30,930
+Look what a beautiful day it is.
+
+149
+00:05:32,300 --> 00:05:34,000
+(loud whirring)
+
+150
+00:05:34,000 --> 00:05:36,760
+(tires screeching)
+
+151
+00:05:38,300 --> 00:05:40,970
+(deep barking)
+
+152
+00:05:43,080 --> 00:05:45,380
+Go play.
+
+153
+00:05:45,380 --> 00:05:48,450
+"Go play"-- if only
+life were that simple.
+
+154
+00:05:54,150 --> 00:05:56,680
+There, I played.
+
+155
+00:05:56,690 --> 00:05:57,480
+Hey, Sheldon!
+
+156
+00:05:57,490 --> 00:05:59,620
+Hello, Billy Sparks.
+
+157
+00:05:59,630 --> 00:06:01,800
+Hello, Matilda Sparks.
+I heard
+
+158
+00:06:01,800 --> 00:06:04,030
+you're going
+to high school tomorrow.
+I am.
+
+159
+00:06:04,030 --> 00:06:06,090
+You're going to have
+to find someone else
+
+160
+00:06:06,100 --> 00:06:07,900
+to torment on the playground.
+
+161
+00:06:07,900 --> 00:06:09,730
+"Torment"?
+
+162
+00:06:09,740 --> 00:06:12,110
+(sighs)
+It means to maliciously harass.
+
+163
+00:06:12,110 --> 00:06:13,770
+"Her ass"?
+(chuckles)
+
+164
+00:06:13,770 --> 00:06:15,100
+That's funny.
+
+165
+00:06:15,110 --> 00:06:16,980
+Well, this was nice.
+
+166
+00:06:16,980 --> 00:06:18,050
+Hey, doofus!
+
+167
+00:06:18,910 --> 00:06:19,740
+(squawks)
+
+168
+00:06:19,750 --> 00:06:21,250
+Mom!
+
+169
+00:06:21,250 --> 00:06:24,620
+Good girl.
+Mom!
+
+170
+00:06:24,620 --> 00:06:26,855
+MARY: What am I supposed to do?
+His feet are growing.
+
+171
+00:06:26,856 --> 00:06:29,150
+GEORGE SR.: Why can't
+he wear Georgie's old shoes?
+
+172
+00:06:29,160 --> 00:06:30,330
+MARY: He won't
+hold your hand.
+
+173
+00:06:30,320 --> 00:06:32,020
+You think he's gonna put his feet
+in his brother's smelly shoes?
+
+174
+00:06:32,030 --> 00:06:34,360
+GEORGE SR.: Well, we damn well
+better cut back somewhere.
+
+175
+00:06:34,360 --> 00:06:36,320
+MARY: Will you please keep
+your voice down?
+
+176
+00:06:36,330 --> 00:06:37,520
+(door shuts)
+
+177
+00:06:37,530 --> 00:06:39,730
+They're fighting
+about you again.
+
+178
+00:06:39,730 --> 00:06:41,960
+They're fighting about money.
+
+179
+00:06:41,970 --> 00:06:44,470
+It's a common argument
+in marriages.
+
+180
+00:06:44,470 --> 00:06:46,170
+(door opens)
+
+181
+00:06:46,170 --> 00:06:47,900
+Lights out.
+
+182
+00:06:47,910 --> 00:06:49,610
+Big day tomorrow.
+
+183
+00:06:50,640 --> 00:06:51,840
+Mom?
+
+184
+00:06:51,850 --> 00:06:53,050
+Hmm?
+
+185
+00:06:53,050 --> 00:06:55,280
+Do we have financial problems?
+
+186
+00:06:55,280 --> 00:06:58,010
+Don't you worry about that.
+
+187
+00:06:58,020 --> 00:06:59,420
+We are fine.
+
+188
+00:06:59,420 --> 00:07:01,990
+Now, go to sleep.
+
+189
+00:07:01,990 --> 00:07:03,560
+(sighs)
+
+190
+00:07:03,560 --> 00:07:06,200
+She's lying. She just said that
+to make you feel better.
+
+191
+00:07:06,200 --> 00:07:08,490
+Mom doesn't lie.
+
+192
+00:07:08,500 --> 00:07:10,160
+Sure, she thinks
+
+193
+00:07:10,160 --> 00:07:11,860
+the Earth was made in six days,
+
+194
+00:07:11,870 --> 00:07:16,070
+but that's 'cause
+she's gullible, not a liar.
+
+195
+00:07:18,070 --> 00:07:19,800
+MISSY:
+<i>Mom,</i>
+
+196
+00:07:19,810 --> 00:07:22,140
+Sheldon can't find his bowtie.
+
+197
+00:07:22,140 --> 00:07:25,010
+Really? I laid it out for him.
+
+198
+00:07:25,010 --> 00:07:27,210
+Leave it alone, Mary.
+He doesn't need a bowtie.
+
+199
+00:07:27,210 --> 00:07:29,880
+It's his first day of school.
+Let him wear what he wants.
+
+200
+00:07:29,880 --> 00:07:31,580
+SHELDON:
+Mom, I can't
+find my bowtie!
+
+201
+00:07:31,590 --> 00:07:34,560
+Dear Lord, why's he
+got to wear a bowtie?
+
+202
+00:07:35,560 --> 00:07:37,090
+Can I drive in with you?
+
+203
+00:07:37,090 --> 00:07:38,850
+Sure.
+
+204
+00:07:38,860 --> 00:07:40,560
+Everybody's gonna know
+he's your brother.
+
+205
+00:07:40,560 --> 00:07:42,160
+It's gonna be awful for you.
+
+206
+00:07:42,160 --> 00:07:43,360
+Tell her to shut up.
+
+207
+00:07:43,360 --> 00:07:45,160
+She's not wrong.
+
+208
+00:07:45,170 --> 00:07:46,770
+(TV plays quietly)
+
+209
+00:07:46,770 --> 00:07:48,705
+It's got to be here.
+SHELDON:
+It's not.
+
+210
+00:07:48,706 --> 00:07:51,570
+It's not!
+Shelly, stay calm.
+We'll find it.
+
+211
+00:07:51,570 --> 00:07:54,100
+My tie is gone!
+My tie is gone!
+Shelly,
+
+212
+00:07:54,110 --> 00:07:55,745
+you don't really need a tie.
+
+213
+00:07:55,746 --> 00:07:57,840
+I have to find my tie.
+I have to find my tie.
+
+214
+00:07:57,840 --> 00:08:00,440
+Be right back.
+
+215
+00:08:00,450 --> 00:08:03,150
+Professor Proton wears a bowtie!
+
+216
+00:08:03,150 --> 00:08:05,350
+George Junior,
+
+217
+00:08:05,350 --> 00:08:07,950
+give me back that
+bowtie right now!
+I didn't take it!
+
+218
+00:08:07,960 --> 00:08:10,920
+Don't you lie to me!
+I'm not lying!
+
+219
+00:08:10,920 --> 00:08:14,090
+We'll see about that.
+Stay out of my room!
+
+220
+00:08:14,090 --> 00:08:16,060
+She's gonna find
+your dirty magazines.
+
+221
+00:08:16,060 --> 00:08:17,360
+Shut up!
+
+222
+00:08:17,360 --> 00:08:19,660
+You are not having a good day.
+
+223
+00:08:19,670 --> 00:08:20,940
+(sighs)
+
+224
+00:08:24,070 --> 00:08:26,530
+(sighs)
+
+225
+00:08:27,940 --> 00:08:29,170
+Ugh!
+
+226
+00:08:29,180 --> 00:08:31,140
+(sighs)
+
+227
+00:08:31,140 --> 00:08:33,270
+Hey. Hey,
+he didn't take it.
+
+228
+00:08:33,280 --> 00:08:35,740
+Then what
+happened to it?!
+SHELDON:
+Help me find my bowtie!
+
+229
+00:08:35,750 --> 00:08:37,880
+I'll check in
+the bathroom!
+
+230
+00:08:37,880 --> 00:08:39,280
+I took it.
+
+231
+00:08:39,290 --> 00:08:41,360
+Why would you do that?
+Mary,
+
+232
+00:08:41,360 --> 00:08:44,160
+the boy is nine years old
+and going into high school.
+
+233
+00:08:44,160 --> 00:08:45,530
+Isn't that weird enough?
+
+234
+00:08:45,530 --> 00:08:47,190
+Give it to me.
+Come on.
+
+235
+00:08:47,190 --> 00:08:48,620
+It's not just Sheldon.
+
+236
+00:08:48,630 --> 00:08:50,470
+Georgie's gonna be
+in class with him.
+
+237
+00:08:50,470 --> 00:08:52,260
+Not in the bathroom!
+
+238
+00:08:52,270 --> 00:08:54,130
+Give it.
+
+239
+00:08:54,130 --> 00:08:56,560
+♪ Think about it ♪
+
+240
+00:08:56,570 --> 00:09:00,300
+♪ There must be higher love ♪
+
+241
+00:09:00,310 --> 00:09:05,280
+♪ Down in the heart
+or hidden in the stars above ♪
+
+242
+00:09:05,280 --> 00:09:08,180
+♪ Without it... ♪
+Would you like
+to play a driving game?
+
+243
+00:09:08,180 --> 00:09:10,080
+Not really. I always lose.
+
+244
+00:09:10,080 --> 00:09:12,110
+I know. That's why it's fun.
+(laughs)
+
+245
+00:09:12,120 --> 00:09:14,760
+How about license plates
+with prime numbers
+
+246
+00:09:14,760 --> 00:09:17,160
+followed by
+a cons...?
+Why don't we just talk?
+
+247
+00:09:17,160 --> 00:09:18,230
+Very well.
+
+248
+00:09:18,230 --> 00:09:20,260
+You understand
+
+249
+00:09:20,260 --> 00:09:22,590
+that some people are gonna be
+intimidated by you
+
+250
+00:09:22,600 --> 00:09:24,200
+'cause of how smart you are?
+
+251
+00:09:24,200 --> 00:09:27,100
+Or maybe
+they'll recognize my intellect
+
+252
+00:09:27,100 --> 00:09:28,730
+and make me their leader.
+
+253
+00:09:28,740 --> 00:09:31,140
+Lord, look after my son.
+
+254
+00:09:31,140 --> 00:09:34,410
+Don't let him get
+stuffed in a gym bag.
+
+255
+00:09:34,410 --> 00:09:39,210
+♪ Bring me a higher love,
+oh, oh ♪
+
+256
+00:09:39,210 --> 00:09:41,710
+♪ Bring me a higher love... ♪
+
+257
+00:09:41,720 --> 00:09:44,380
+(distorted sounds
+and voices)
+
+258
+00:09:44,380 --> 00:09:47,050
+(distorted speech)
+
+259
+00:09:47,050 --> 00:09:48,380
+Oh, dear.
+
+260
+00:09:48,390 --> 00:09:49,760
+Yeah.
+
+261
+00:09:49,760 --> 00:09:52,090
+That boy has
+an exposed tattoo.
+
+262
+00:09:52,090 --> 00:09:53,520
+He does.
+
+263
+00:09:53,530 --> 00:09:54,900
+I wonder if he knows
+
+264
+00:09:54,900 --> 00:09:56,670
+that's in violation
+of the dress code.
+
+265
+00:09:56,670 --> 00:10:01,360
+Speaking of which, how
+about we lose the bowtie?
+
+266
+00:10:01,370 --> 00:10:03,040
+Why?
+
+267
+00:10:03,040 --> 00:10:05,610
+Look around, honey. None of the
+other kids are wearing one.
+
+268
+00:10:05,610 --> 00:10:07,710
+Well, perhaps I'll start a fad.
+
+269
+00:10:07,710 --> 00:10:09,880
+No, you won't.
+Please trust Mommy.
+
+270
+00:10:10,840 --> 00:10:12,370
+All right,
+tell you what.
+
+271
+00:10:12,380 --> 00:10:14,880
+You take it off,
+and this weekend,
+
+272
+00:10:14,880 --> 00:10:17,310
+I'll take you to RadioShack.
+
+273
+00:10:17,320 --> 00:10:18,690
+Hmm?
+
+274
+00:10:18,690 --> 00:10:20,820
+(bell ringing)
+
+275
+00:10:20,820 --> 00:10:23,150
+(indistinct chatter)
+
+276
+00:10:25,090 --> 00:10:26,990
+(growling)
+
+277
+00:10:26,990 --> 00:10:28,390
+You doing okay?
+
+278
+00:10:28,400 --> 00:10:30,460
+I guess.
+
+279
+00:10:30,460 --> 00:10:31,520
+(roars)
+
+280
+00:10:31,530 --> 00:10:33,060
+I smell ammonia.
+
+281
+00:10:33,070 --> 00:10:35,610
+They must've done
+a thorough cleaning recently.
+
+282
+00:10:35,610 --> 00:10:37,260
+I like that.
+
+283
+00:10:37,270 --> 00:10:40,900
+MARY: And remember, if anybody
+bothers you, what do you say?
+
+284
+00:10:40,910 --> 00:10:42,940
+My dad's a football coach.
+
+285
+00:10:42,940 --> 00:10:45,140
+And?
+My brother's a football player.
+
+286
+00:10:45,150 --> 00:10:46,350
+Good.
+
+287
+00:10:46,350 --> 00:10:47,680
+Hey, Mom, look.
+
+288
+00:10:47,680 --> 00:10:50,040
+That girl's pregnant.
+
+289
+00:10:50,050 --> 00:10:51,580
+Congratulations.
+
+290
+00:10:55,050 --> 00:10:56,750
+(toilet flushing)
+
+291
+00:10:56,760 --> 00:10:59,230
+Well, that was revolting.
+
+292
+00:10:59,230 --> 00:11:00,895
+All right.
+This is your homeroom.
+
+293
+00:11:00,896 --> 00:11:02,460
+Do you want me
+to go in with you?
+
+294
+00:11:02,460 --> 00:11:05,560
+No. Although I could've used you
+in the restroom.
+
+295
+00:11:05,570 --> 00:11:07,700
+Okay, well...
+
+296
+00:11:07,700 --> 00:11:09,000
+You have a good day.
+
+297
+00:11:09,000 --> 00:11:10,530
+And I'll pick you up
+after school,
+
+298
+00:11:10,540 --> 00:11:12,110
+same door we came in.
+
+299
+00:11:12,110 --> 00:11:14,780
+Are you crying or having
+an allergy attack?
+
+300
+00:11:14,780 --> 00:11:17,040
+Allergies.
+
+301
+00:11:17,040 --> 00:11:18,740
+It's probably the ammonia.
+
+302
+00:11:18,750 --> 00:11:20,610
+Probably.
+(sniffles)
+
+303
+00:11:20,610 --> 00:11:23,610
+Okay. Let the learning begin.
+
+304
+00:11:29,890 --> 00:11:32,730
+(exhales)
+
+305
+00:11:32,730 --> 00:11:37,060
+All right, everybody,
+my name is Ms. MacElroy.
+
+306
+00:11:37,060 --> 00:11:39,230
+In addition to being
+your homeroom teacher,
+
+307
+00:11:39,230 --> 00:11:42,030
+I'll be seeing some of you
+in my English class,
+
+308
+00:11:42,040 --> 00:11:44,040
+and some of you
+on the volleyball court.
+
+309
+00:11:44,040 --> 00:11:45,910
+Just to give you
+a little history,
+
+310
+00:11:45,910 --> 00:11:47,980
+I've been here at Medford
+for 29 years...
+
+311
+00:11:47,980 --> 00:11:49,370
+(mouthing)
+
+312
+00:11:49,380 --> 00:11:51,380
+...I taught some of your
+older brothers and sisters,
+
+313
+00:11:51,380 --> 00:11:53,520
+and sadly,
+some of your parents.
+
+314
+00:11:55,080 --> 00:11:56,610
+Not much I haven't seen.
+
+315
+00:11:56,620 --> 00:11:58,620
+Until today.
+
+316
+00:11:58,620 --> 00:12:01,860
+I'm sure you're well aware
+we have a student with us,
+
+317
+00:12:01,860 --> 00:12:03,860
+who, despite his young age,
+
+318
+00:12:03,860 --> 00:12:06,160
+is remarkably gifted.
+
+319
+00:12:06,160 --> 00:12:09,370
+And I expect y'all
+to make him feel welcome.
+
+320
+00:12:10,530 --> 00:12:11,500
+Yes, Sheldon?
+
+321
+00:12:11,500 --> 00:12:14,170
+Per the student dress
+and grooming code,
+
+322
+00:12:14,170 --> 00:12:16,170
+this boy's hair is too long,
+
+323
+00:12:16,170 --> 00:12:18,105
+this boy is wearing
+sports attire
+
+324
+00:12:18,106 --> 00:12:19,470
+outside
+of a designated area
+
+325
+00:12:19,470 --> 00:12:22,000
+and this girl's blouse
+is diaphanous,
+
+326
+00:12:22,010 --> 00:12:24,980
+which means
+I can see her brassiere.
+
+327
+00:12:24,980 --> 00:12:27,010
+(laughter)
+Thank you.
+
+328
+00:12:27,010 --> 00:12:28,910
+I will take that
+into account.
+
+329
+00:12:28,920 --> 00:12:30,250
+All right.
+
+330
+00:12:30,250 --> 00:12:32,410
+We have a few minutes
+before first period.
+
+331
+00:12:32,420 --> 00:12:34,520
+I need y'all
+to fill out these forms.
+
+332
+00:12:34,520 --> 00:12:35,780
+What?
+
+333
+00:12:35,790 --> 00:12:38,930
+Also in violation of the
+grooming code on page 48,
+
+334
+00:12:38,930 --> 00:12:40,960
+article five, subsection B,
+
+335
+00:12:40,960 --> 00:12:43,060
+you have a bit of a mustache.
+
+336
+00:12:43,060 --> 00:12:44,390
+(laughter)
+
+337
+00:12:46,030 --> 00:12:47,690
+This is a stupid idea.
+This boy does not
+
+338
+00:12:47,700 --> 00:12:48,830
+belong in our school.
+
+339
+00:12:48,840 --> 00:12:50,770
+PETERSEN: Come on Vicky,
+it's just the first day.
+
+340
+00:12:50,770 --> 00:12:52,870
+Why don't we all just take
+a deep breath here?
+
+341
+00:12:52,870 --> 00:12:55,170
+The hell with that. Five
+minutes into my math class,
+
+342
+00:12:55,180 --> 00:12:56,940
+he questioned my credentials.
+
+343
+00:12:56,940 --> 00:12:58,670
+How am I supposed to control a
+classroom when a kid accuses me
+
+344
+00:12:58,680 --> 00:13:00,610
+of being in breach
+of the hygiene code?
+
+345
+00:13:00,610 --> 00:13:02,380
+Well, Hubert, it wouldn't
+kill you to shower
+
+346
+00:13:02,380 --> 00:13:05,010
+a little more often. George,
+you want to weigh in here?
+
+347
+00:13:05,020 --> 00:13:06,855
+Well...
+INGRAM:
+Oral Roberts University
+
+348
+00:13:06,856 --> 00:13:08,110
+is a wonderful school.
+
+349
+00:13:08,120 --> 00:13:09,950
+He said I was intimidated
+by his intelligence,
+
+350
+00:13:09,960 --> 00:13:10,890
+and then,
+
+351
+00:13:10,890 --> 00:13:13,790
+he offered to be my "leader."
+
+352
+00:13:13,790 --> 00:13:15,560
+(clears throat)
+
+353
+00:13:15,560 --> 00:13:18,090
+(playing Mozart's Sonata in D)
+
+354
+00:13:44,220 --> 00:13:46,420
+(piano playing)
+
+355
+00:13:57,800 --> 00:13:59,000
+(stops playing)
+
+356
+00:13:59,010 --> 00:14:00,710
+Do you know
+this sonata?
+
+357
+00:14:00,710 --> 00:14:01,980
+No.
+
+358
+00:14:01,980 --> 00:14:04,050
+How long have you
+played the piano?
+
+359
+00:14:04,050 --> 00:14:06,840
+I don't play piano.
+
+360
+00:14:06,850 --> 00:14:09,080
+PETERSEN:
+<i>George,</i>
+
+361
+00:14:09,080 --> 00:14:10,640
+you got any thoughts here?
+
+362
+00:14:10,650 --> 00:14:11,810
+I certainly do.
+
+363
+00:14:12,990 --> 00:14:15,160
+Mary, tell him.
+
+364
+00:14:15,160 --> 00:14:18,020
+It's simple.
+We don't have a choice.
+
+365
+00:14:18,020 --> 00:14:19,490
+Well, you gave it a shot.
+
+366
+00:14:19,490 --> 00:14:21,590
+We wish you luck
+with Sheldon elsewhere...
+
+367
+00:14:21,590 --> 00:14:23,090
+MARY:
+No, no, no.
+
+368
+00:14:23,100 --> 00:14:24,500
+We don't have a choice.
+
+369
+00:14:24,500 --> 00:14:25,900
+He's got to stay here.
+
+370
+00:14:25,900 --> 00:14:27,270
+We can't afford
+
+371
+00:14:27,270 --> 00:14:28,240
+private school.
+
+372
+00:14:28,240 --> 00:14:29,760
+I sure can't
+homeschool him.
+
+373
+00:14:29,770 --> 00:14:32,010
+He's doing calculus and
+Euclidean something or other.
+
+374
+00:14:32,010 --> 00:14:33,210
+Euclidean geometry.
+
+375
+00:14:33,210 --> 00:14:34,810
+Guess where I learned that.
+
+376
+00:14:34,810 --> 00:14:37,080
+Yeah, yeah, we know.
+
+377
+00:14:37,080 --> 00:14:38,780
+All I care about
+is that
+
+378
+00:14:38,780 --> 00:14:41,950
+my son gets the education
+he deserves, so you all
+
+379
+00:14:41,950 --> 00:14:43,150
+are gonna have to
+figure this out.
+
+380
+00:14:43,150 --> 00:14:44,890
+Coach, can you help me out here,
+please?
+
+381
+00:14:44,890 --> 00:14:46,310
+'Cause I'm dyin'.
+
+382
+00:14:49,860 --> 00:14:52,560
+I'd rather not.
+
+383
+00:14:55,790 --> 00:14:57,520
+G minor.
+
+384
+00:14:58,730 --> 00:15:00,930
+F.
+
+385
+00:15:00,930 --> 00:15:03,300
+E flat.
+
+386
+00:15:04,140 --> 00:15:06,340
+C minor.
+
+387
+00:15:08,370 --> 00:15:10,100
+You have perfect pitch.
+
+388
+00:15:10,110 --> 00:15:11,570
+Okay.
+
+389
+00:15:11,580 --> 00:15:15,250
+Sweetheart, you should
+really pursue music.
+
+390
+00:15:15,250 --> 00:15:18,220
+No, thank you.
+Musicians take drugs.
+
+391
+00:15:19,220 --> 00:15:22,230
+Is there a faculty
+restroom I could use?
+
+392
+00:15:23,890 --> 00:15:25,660
+(whistle blows)
+
+393
+00:15:25,660 --> 00:15:27,160
+♪ Ooh... ♪
+
+394
+00:15:27,160 --> 00:15:28,290
+(grunting)
+
+395
+00:15:28,290 --> 00:15:31,420
+♪ Ooh... ♪
+
+396
+00:15:36,140 --> 00:15:37,610
+Cooper, Stinson, you're up.
+
+397
+00:15:37,610 --> 00:15:41,170
+(laughs) Hey, look,
+it's the dumb brother.
+
+398
+00:15:43,940 --> 00:15:45,540
+Okay.
+(blows whistle)
+
+399
+00:15:47,880 --> 00:15:50,380
+(grunting, yelling)
+
+400
+00:15:50,380 --> 00:15:51,640
+(whistle blowing)
+
+401
+00:15:51,650 --> 00:15:53,010
+BERGDOFF:
+That's enough. Hey.
+
+402
+00:15:53,020 --> 00:15:53,860
+(yelling)
+(whistle blowing)
+
+403
+00:15:53,860 --> 00:15:56,280
+BERGDOFF:
+Hey, that's enough!
+
+404
+00:15:56,290 --> 00:15:57,730
+Hey, hey!
+GEORGE SR.:
+That's enough!
+
+405
+00:15:57,730 --> 00:15:58,990
+Georgie.
+
+406
+00:15:58,990 --> 00:16:00,720
+Georgie! Georgie!
+
+407
+00:16:00,730 --> 00:16:02,300
+Stop! Stop!
+
+408
+00:16:04,700 --> 00:16:07,870
+What the hell
+is wrong with you?
+
+409
+00:16:09,940 --> 00:16:11,840
+You okay?
+
+410
+00:16:11,840 --> 00:16:14,840
+No, I'm not okay.
+
+411
+00:16:22,650 --> 00:16:24,250
+Where you think you're going?
+
+412
+00:16:24,250 --> 00:16:26,210
+I quit. I don't want
+to play anymore!
+
+413
+00:16:26,220 --> 00:16:29,590
+Since when?
+Since right now!
+
+414
+00:16:29,590 --> 00:16:31,290
+All right, what is going on?
+
+415
+00:16:31,290 --> 00:16:33,050
+What do you think's going on?!
+
+416
+00:16:33,060 --> 00:16:35,570
+You mean Sheldon?
+
+417
+00:16:37,260 --> 00:16:40,190
+You can't let that bother you.
+
+418
+00:16:40,200 --> 00:16:41,630
+It doesn't bother you?
+
+419
+00:16:41,630 --> 00:16:43,430
+You got called
+to the principal's office.
+
+420
+00:16:43,440 --> 00:16:45,310
+Yeah, that wasn't so great.
+
+421
+00:16:45,310 --> 00:16:47,040
+I can't be in the same school
+as him!
+
+422
+00:16:47,040 --> 00:16:48,970
+Well, I don't see
+what choice you have.
+
+423
+00:16:48,980 --> 00:16:52,520
+Right. Ever since he could talk,
+I quit having any choices.
+
+424
+00:16:56,980 --> 00:16:58,780
+(groans)
+
+425
+00:16:58,790 --> 00:17:00,950
+I know it's hard.
+
+426
+00:17:00,950 --> 00:17:04,880
+I'm telling you, as your coach,
+quit your whining,
+
+427
+00:17:04,890 --> 00:17:07,390
+get your uniform on and you
+get your ass back out there.
+
+428
+00:17:07,390 --> 00:17:10,390
+But what about as my dad?
+
+429
+00:17:10,400 --> 00:17:13,030
+Your dad is
+having a bad day.
+
+430
+00:17:13,030 --> 00:17:15,460
+Listen to your coach.
+
+431
+00:17:21,740 --> 00:17:25,000
+Can a clock be powered
+by an ordinary potato?
+
+432
+00:17:25,010 --> 00:17:26,870
+I hope so, boys and girls,
+
+433
+00:17:26,880 --> 00:17:31,080
+or this is going to be
+a really boring episode.
+
+434
+00:17:31,080 --> 00:17:32,250
+The supplies you'll need...
+
+435
+00:17:32,250 --> 00:17:34,080
+Why can't we
+watch<i> DuckTales?</i>
+
+436
+00:17:34,090 --> 00:17:37,330
+'Cause we don't learn anything
+watching<i> DuckTales.</i>
+
+437
+00:17:37,330 --> 00:17:40,850
+It's TV; we aren't
+supposed to learn.
+
+438
+00:17:40,860 --> 00:17:43,590
+...two alligator grips
+and, let's see...
+
+439
+00:17:43,600 --> 00:17:46,200
+Of course, a clock.
+
+440
+00:17:46,200 --> 00:17:48,140
+Missy, go somewhere else.
+I need to talk to your brother.
+
+441
+00:17:48,140 --> 00:17:50,960
+Why don't you go somewhere else
+and I can watch<i> Duck...</i>
+
+442
+00:17:50,970 --> 00:17:52,170
+Go!
+
+443
+00:17:52,170 --> 00:17:55,270
+I hate everybody.
+
+444
+00:17:55,280 --> 00:17:58,010
+It's time for science.
+
+445
+00:17:59,680 --> 00:18:02,420
+Hey, he was about to power
+a clock with a potato.
+
+446
+00:18:02,420 --> 00:18:04,150
+Not possible.
+
+447
+00:18:04,150 --> 00:18:06,210
+Now, listen...
+Am I in trouble?
+
+448
+00:18:06,220 --> 00:18:08,520
+No.
+
+449
+00:18:08,520 --> 00:18:10,080
+Maybe. Just listen.
+
+450
+00:18:11,520 --> 00:18:14,250
+You're not gonna
+make it in this school
+
+451
+00:18:14,260 --> 00:18:15,920
+if you keep ratting
+people out.
+
+452
+00:18:15,930 --> 00:18:17,570
+But they were breaking
+the grooming codes
+
+453
+00:18:17,570 --> 00:18:19,190
+and the dress codes.
+
+454
+00:18:19,200 --> 00:18:22,600
+I saw one boy with a T-shirt
+that said...
+
+455
+00:18:22,600 --> 00:18:24,330
+(whispering):
+"Bite me."
+
+456
+00:18:24,340 --> 00:18:26,040
+Yeah. That-that's terrible.
+
+457
+00:18:26,040 --> 00:18:28,810
+Sheldon, let me tell
+you a little story.
+
+458
+00:18:28,810 --> 00:18:30,950
+Did you ever wonder why we moved
+from Galveston to Medford?
+
+459
+00:18:30,950 --> 00:18:34,540
+No. I tend to wonder
+about the bigger questions.
+
+460
+00:18:34,550 --> 00:18:36,850
+Okay, well, here's why.
+
+461
+00:18:36,850 --> 00:18:39,690
+Your dad had a real good
+coaching job
+
+462
+00:18:39,690 --> 00:18:42,090
+and I saw some grown-ups
+breaking rules.
+
+463
+00:18:42,090 --> 00:18:43,890
+What'd they do?
+
+464
+00:18:43,890 --> 00:18:46,020
+I-It's kind of complicated,
+but...
+
+465
+00:18:46,030 --> 00:18:47,900
+football coaches aren't allowed
+to recruit kids
+
+466
+00:18:47,900 --> 00:18:50,960
+from other high schools
+to play on their teams.
+
+467
+00:18:50,960 --> 00:18:52,060
+And you told on them?
+
+468
+00:18:52,070 --> 00:18:53,600
+Yeah. You know what happened?
+
+469
+00:18:53,600 --> 00:18:56,400
+Justice descended
+upon the rule breakers?
+
+470
+00:18:56,400 --> 00:18:59,900
+I got fired, Sheldon.
+
+471
+00:18:59,910 --> 00:19:01,940
+And I got a bad
+reputation.
+
+472
+00:19:01,940 --> 00:19:04,840
+Oh. That's why you
+drink so much beer.
+
+473
+00:19:08,610 --> 00:19:10,280
+Just do yourself a favor.
+
+474
+00:19:10,280 --> 00:19:12,680
+Okay? Go to
+school tomorrow,
+
+475
+00:19:12,690 --> 00:19:15,120
+and mind your own business.
+
+476
+00:19:15,120 --> 00:19:16,720
+All right?
+
+477
+00:19:16,720 --> 00:19:19,390
+Dad.
+
+478
+00:19:20,660 --> 00:19:23,130
+Are you sad that you got fired?
+
+479
+00:19:25,460 --> 00:19:28,860
+Mostly angry.
+
+480
+00:19:28,870 --> 00:19:32,140
+But yeah.
+
+481
+00:19:32,140 --> 00:19:34,110
+Maybe a little sad.
+
+482
+00:19:34,134 --> 00:19:39,134
+ReEncoded By Dr.XJ | PSA
+www.PSArips.com
+
+483
+00:19:41,280 --> 00:19:44,580
+All right, let's say grace.
+
+484
+00:19:47,850 --> 00:19:49,680
+Thank you, God,
+
+485
+00:19:49,690 --> 00:19:52,560
+for this food we are
+about to receive.
+
+486
+00:19:52,560 --> 00:19:54,930
+(muffled praying continues)
+
+487
+00:20:00,670 --> 00:20:02,370
+ADULT SHELDON:
+<i>That was the first time</i>
+
+488
+00:20:02,370 --> 00:20:04,040
+<i>I held my father's hand.</i>
+
+489
+00:20:04,040 --> 00:20:07,310
+MARY: ...our bodies and bless
+the hands that prepared it.
+
+490
+00:20:07,310 --> 00:20:09,040
+Amen.
+
+491
+00:20:09,040 --> 00:20:10,470
+GEORGIE: Amen.
+Amen.
+
+492
+00:20:11,580 --> 00:20:16,180
+MARY: Hey, George Jr.,
+wait your turn.
+
+493
+00:20:16,180 --> 00:20:17,810
+ADULT SHELDON: <i>I wouldn't
+touch my brother's hand</i>
+
+494
+00:20:17,820 --> 00:20:19,950
+<i>until 17 years later,</i>
+
+495
+00:20:19,950 --> 00:20:23,750
+<i>thanks to the invention
+of Purell.</i>
+
+496
+00:20:36,570 --> 00:20:38,010
+You know what I find comforting?
+
+497
+00:20:38,010 --> 00:20:39,270
+What's that, baby?
+
+498
+00:20:39,270 --> 00:20:41,770
+In a world filled
+with uncertainty,
+
+499
+00:20:41,770 --> 00:20:43,500
+this place will be here forever.
+
+500
+00:20:45,340 --> 00:20:48,240
+CLERK: Hey, Sheldon,
+how you doing?
+

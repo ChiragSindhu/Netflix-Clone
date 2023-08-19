@@ -1,0 +1,6 @@
+Enable Process.env in this react app so SERVER url will be hidden
+Enable useEffect in HomePage/main.js So that loadMovieList function will call at once.
+
+
+npm start
+https://cloud.mongodb.com/v2/62912528ccbd076c9deb2c55#metrics/replicaSet/62912568875811474b283af3/explorer/NetflixDatabase/MoviesList/find
